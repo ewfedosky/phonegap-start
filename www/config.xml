@@ -6,10 +6,10 @@
         id        = "com.phonegap.hello-world"
         version   = "1.0.0">
 
-    <name>Hello World-ED</name>
+    <name>Blackhawk CC Wine</name>
 
     <description>
-        Hello World sample application that responds to the deviceready event.
+        Interactive wine menu for Blackhawk Country Club.
     </description>
 
     <author href="http://www.WebWrights.net" email="ewfedosky@webwrights.net">
